@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Cinereserve Local",
+            "database": "cinereserve",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
