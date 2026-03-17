@@ -21,3 +21,16 @@ services:
     image: redis:alpine
     ports:
       - "6379:6379"
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - 15433:80
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - PGADMIN_DEFAULT_EMAIL=super@user.com
+      - PGADMIN_DEFAULT_PASSWORD=postgres
+    depends_on:
+      - db
+    volumes:
+      - ${PWD}/pgadmin-data/:/var/lib/pgadmin/
