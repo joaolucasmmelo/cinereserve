@@ -14,21 +14,3 @@ class UserSerializer(serializers.ModelSerializer):
             password=validated_data['password']
         )
         return user
-
-
-# class MovieSerializer(serializers.ModelSerializer):
-#     class Meta:
-#         model = Movie
-#         fields = '__all__'
-
-
-# class RoomSerializer(serializers.ModelSerializer):
-#     class Meta:
-#         model = Room
-#         fields = '__all__'
-
-
-# class SessionSerializer(serializers.ModelSerializer):
-#     class Meta:
-#         model = Session
-#         fields = '__all__'

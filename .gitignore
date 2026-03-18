@@ -1,2 +1,6 @@
 .venv
 db.sqlite3
+pgadmin-data/
+__pycache__/
+*.pyc
+*.session.sql
