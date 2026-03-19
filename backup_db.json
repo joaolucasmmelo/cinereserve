@@ -1,0 +1,667 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-03-19T03:33:50.823Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Session object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-03-19T03:35:19.788Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Session object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Datetime\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2026-03-19T03:35:52.569Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Session object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2026-03-19T03:36:17.347Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Session object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2026-03-19T03:36:38.749Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Session object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2026-03-19T03:36:53.194Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "5",
+        "object_repr": "Session object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2026-03-19T03:37:06.965Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "6",
+        "object_repr": "Session object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2026-03-19T03:37:54.049Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "7",
+        "object_repr": "Session object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2026-03-19T03:38:12.115Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "8",
+        "object_repr": "Session object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2026-03-19T03:38:21.320Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "9",
+        "object_repr": "Session object (9)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2026-03-19T03:38:33.423Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "10",
+        "object_repr": "Session object (10)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2026-03-19T03:38:44.442Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "11",
+        "object_repr": "Session object (11)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2026-03-19T03:39:04.137Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "12",
+        "object_repr": "Session object (12)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2026-03-19T04:04:18.253Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "13",
+        "object_repr": "Sessão para o filme: Sprint Impossível: O Protocolo Deploy, na Sala 3 as 2026-04-03 07:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2026-03-19T04:04:43.895Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "14",
+        "object_repr": "Sessão para o filme: B2-Wars: O Despertar do Código, na Sala 3 as 2026-04-03 10:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2026-03-19T04:05:10.590Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "15",
+        "object_repr": "Sessão para o filme: Sprint Impossível: O Protocolo Deploy, na Sala 3 as 2026-04-03 13:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2026-03-19T04:05:25.132Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "16",
+        "object_repr": "Sessão para o filme: B2-Wars: O Despertar do Código, na Sala 3 as 2026-04-03 16:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2026-03-19T04:06:02.914Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "17",
+        "object_repr": "Sessão para o filme: Sprint Impossível: O Protocolo Deploy, na Sala 3 as 2026-04-03 19:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2026-03-19T04:06:16.181Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "18",
+        "object_repr": "Sessão para o filme: B2-Wars: O Despertar do Código, na Sala 3 as 2026-04-03 22:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2026-03-19T04:06:36.137Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "19",
+        "object_repr": "Sessão para o filme: O Lobo da B2bit, na Sala 4 as 2026-04-04 07:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2026-03-19T04:06:48.563Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "20",
+        "object_repr": "Sessão para o filme: Harry Coder e a Câmara dos Segredos do Git, na Sala 4 as 2026-04-04 10:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2026-03-19T04:07:02.121Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "21",
+        "object_repr": "Sessão para o filme: O Lobo da B2bit, na Sala 4 as 2026-04-04 13:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2026-03-19T04:07:16.226Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "22",
+        "object_repr": "Sessão para o filme: Harry Coder e a Câmara dos Segredos do Git, na Sala 4 as 2026-04-04 16:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2026-03-19T04:07:34.418Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "23",
+        "object_repr": "Sessão para o filme: O Lobo da B2bit, na Sala 4 as 2026-04-04 19:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2026-03-19T04:07:43.146Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "24",
+        "object_repr": "Sessão para o filme: Harry Coder e a Câmara dos Segredos do Git, na Sala 4 as 2026-04-04 22:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "wp3rp6vr5ihbzeih4yxufd2j89lzviws",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hBSCgMu3XsGMtMZpGpoUtpV491tky50-977f1MJ16WktcmcRlZXFdXllxEOL6mH4CfWx6SHqS7zSPpI9Gmbvk8s79vZ_h0UbGVfQ3QGAJ0JYpwPnLM1zOIwA4hIMOi559hFIs857IzQGit9RzY4iOrzBfG4OFk:1w33XY:PfCR4wTdyT0xV29MNIJi85EIwFETR1DcX87lhJ2aq0Y",
+        "expire_date": "2026-04-02T02:55:16.323Z"
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 1,
+    "fields": {
+        "name": "Vingadores: Dashboard Infinito",
+        "description": "Uma jornada de 4 meses de automações planejadas tornou-se uma guerra infinita quando o titã Ant-Artico cresceu o olho poucas semanas depois da 1ª Sprint. Ignorando completamente o cronograma original, ele forçou a criação do artefato místico: o Dashboard Infinito — um MVP de métricas de tráfego pago capaz de devorar todas as outras tasks do escopo. Agora, o time de Automação da B2Bit vê seus processos originais virarem pó enquanto uma torrente interminável de novos blocos de métricas e funis complexos surge sem parar. Conseguirá a equipe entregar o site antes que o escopo infinito engula toda a realidade da software house?",
+        "duration_minutes": 177
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 2,
+    "fields": {
+        "name": "Devs & Furiosos: Tokyo Drift no Backend",
+        "description": "Quando o banco de dados perde a tração e o servidor começa a fritar, um grupo de devs especialistas em performance entra em cena para tunar as queries e fazer o sistema rodar sem capotar na produção.",
+        "duration_minutes": 135
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 3,
+    "fields": {
+        "name": "B2-Trix",
+        "description": "Você prefere a pílula azul (aceitar que o bug é uma feature) ou a pílula vermelha (entender como o framework realmente funciona)? Um dev descobre que o mundo é apenas um grande legado escrito em COBOL.",
+        "duration_minutes": 172
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 4,
+    "fields": {
+        "name": "O Senhor dos Commits: A Sociedade do Código",
+        "description": "Nove desenvolvedores partem em uma jornada épica para levar um Pull Request perigoso até as chamas da Produção. O objetivo? Destruir o Bug Mestre que a todos governa e a todos escraviza.",
+        "duration_minutes": 95
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 5,
+    "fields": {
+        "name": "Sprint Impossível: O Protocolo Deploy",
+        "description": "Sua missão, caso decida aceitá-la: entregar um app completo em uma Sprint de 3 dias após o servidor de homologação ser desconectado. Esta documentação se autodestruirá após o primeiro npm install.",
+        "duration_minutes": 141
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 6,
+    "fields": {
+        "name": "B2-Wars: O Despertar do Código",
+        "description": "Numa galáxia de servidores muito distante, uma vulnerabilidade sombria ameaça a paz do sistema. Um jovem estagiário descobre que possui a Força (o acesso root) e precisa se unir à Resistência de Devs para destruir a Estrela da Morte: um monolito legado que consome planetas inteiros de memória RAM.",
+        "duration_minutes": 165
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 7,
+    "fields": {
+        "name": "O Lobo da B2bit",
+        "description": "Um ambicioso vendedor de software convence os clientes de que a B2Bit pode entregar sistemas de IA quântica em 48 horas. Enquanto o setor de vendas celebra com festas e excessos, o time de Backend precisa descobrir como transformar promessas impossíveis em código real sem que o servidor de produção exploda.",
+        "duration_minutes": 136
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 8,
+    "fields": {
+        "name": "Harry Coder e a Câmara dos Segredos do Git",
+        "description": "Harry descobre que é um desenvolvedor e é levado para a escola de tecnologia da B2Bit. Lá, ele encontra um repositório escondido que nunca deveria ter sido aberto. Agora, ele precisa enfrentar \"Aquele-Que-Não-Deve-Ser-Nomeado\": o bug mestre que deletou o banco de dados de produção sem deixar um único rastro nos logs.",
+        "duration_minutes": 147
+    }
+},
+{
+    "model": "core.room",
+    "pk": 1,
+    "fields": {
+        "name": "Sala 1",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.room",
+    "pk": 2,
+    "fields": {
+        "name": "Sala 2",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.room",
+    "pk": 3,
+    "fields": {
+        "name": "Sala 3",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.room",
+    "pk": 4,
+    "fields": {
+        "name": "Sala 4",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.session",
+    "pk": 1,
+    "fields": {
+        "movie": 1,
+        "room": 1,
+        "datetime": "2026-04-01T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 2,
+    "fields": {
+        "movie": 2,
+        "room": 1,
+        "datetime": "2026-04-01T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 3,
+    "fields": {
+        "movie": 1,
+        "room": 1,
+        "datetime": "2026-04-01T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 4,
+    "fields": {
+        "movie": 2,
+        "room": 1,
+        "datetime": "2026-04-01T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 5,
+    "fields": {
+        "movie": 1,
+        "room": 1,
+        "datetime": "2026-04-01T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 6,
+    "fields": {
+        "movie": 2,
+        "room": 1,
+        "datetime": "2026-04-01T22:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 7,
+    "fields": {
+        "movie": 3,
+        "room": 2,
+        "datetime": "2026-04-02T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 8,
+    "fields": {
+        "movie": 4,
+        "room": 2,
+        "datetime": "2026-04-02T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 9,
+    "fields": {
+        "movie": 3,
+        "room": 2,
+        "datetime": "2026-04-02T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 10,
+    "fields": {
+        "movie": 4,
+        "room": 2,
+        "datetime": "2026-04-02T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 11,
+    "fields": {
+        "movie": 3,
+        "room": 2,
+        "datetime": "2026-04-02T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 12,
+    "fields": {
+        "movie": 4,
+        "room": 2,
+        "datetime": "2026-04-02T22:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 13,
+    "fields": {
+        "movie": 5,
+        "room": 3,
+        "datetime": "2026-04-03T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 14,
+    "fields": {
+        "movie": 6,
+        "room": 3,
+        "datetime": "2026-04-03T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 15,
+    "fields": {
+        "movie": 5,
+        "room": 3,
+        "datetime": "2026-04-03T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 16,
+    "fields": {
+        "movie": 6,
+        "room": 3,
+        "datetime": "2026-04-03T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 17,
+    "fields": {
+        "movie": 5,
+        "room": 3,
+        "datetime": "2026-04-03T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 18,
+    "fields": {
+        "movie": 6,
+        "room": 3,
+        "datetime": "2026-04-03T22:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 19,
+    "fields": {
+        "movie": 7,
+        "room": 4,
+        "datetime": "2026-04-04T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 20,
+    "fields": {
+        "movie": 8,
+        "room": 4,
+        "datetime": "2026-04-04T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 21,
+    "fields": {
+        "movie": 7,
+        "room": 4,
+        "datetime": "2026-04-04T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 22,
+    "fields": {
+        "movie": 8,
+        "room": 4,
+        "datetime": "2026-04-04T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 23,
+    "fields": {
+        "movie": 7,
+        "room": 4,
+        "datetime": "2026-04-04T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 24,
+    "fields": {
+        "movie": 8,
+        "room": 4,
+        "datetime": "2026-04-04T22:00:00Z"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$NJAI8jepCzJywE32LImIBi$C0NphOvY/XySkM8+mBcbppkPlO5/nQGrVtV9LHiZcmU=",
+        "last_login": "2026-03-19T02:55:16.318Z",
+        "email": "super@user.com",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true
+    }
+}
+]

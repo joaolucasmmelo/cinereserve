@@ -9,6 +9,15 @@ class Movie(models.Model):
     duration_minutes: int = models.IntegerField()
 
 
+class Room(models.Model):
+    name = models.CharField(max_length=50)
+    capacity = models.IntegerField(default=16)
+
+
 class Session(models.Model):
-    session_id = models.IntegerField()
+    movie: Movie = models.ForeignKey(Movie, on_delete=models.CASCADE, related_name='sessions')
+    room: Room = models.ForeignKey(Room, on_delete=models.CASCADE)
     datetime = models.DateTimeField()
+
+    def __str__(self):
+        return f"Sessão para o filme: {self.movie.name}, na {self.room.name} as {self.datetime}"
